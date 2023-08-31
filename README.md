@@ -5,4 +5,4 @@ Welcome to the IMDb Exploratory Data Analysis (EDA) Project repository! This pro
 # Project Overview:
 The IMDb EDA Project dives deep into the vast IMDb dataset, which contains a wealth of information about movies, ratings, cast, crew, and more. Through rigorous data cleaning, thorough exploration, and engaging visualizations, this project sheds light on key aspects of the entertainment industry.
 
-# Key Objectives:
+
